@@ -1,0 +1,25 @@
+{
+  "name": "macha-school-docs",
+  "version": "1.0.0",
+  "description": "Complete online documentation for macha school wordpress theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfletcher/Macha-School-Theme.git"
+  },
+  "keywords": [
+    "Education",
+    "theme",
+    "modern",
+    "theme"
+  ],
+  "author": "E.Oussema & H.Dali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webfletcher/Macha-School-Theme/issues"
+  },
+  "homepage": "https://github.com/webfletcher/Macha-School-Theme#readme"
+}
