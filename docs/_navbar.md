@@ -1,4 +1,4 @@
 <!-- _navbar.md -->
 
 - [En](/)
-- [chinese](/zh-cn/)
+- [Fr](/zh-cn/)
