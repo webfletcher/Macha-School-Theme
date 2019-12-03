@@ -87,6 +87,7 @@ WordPress redirects you to the Install Required Plugins page. Select all plugins
 
 <br>
 <br>
+
 # **Theme Customization**
 
 ## General Appearances
