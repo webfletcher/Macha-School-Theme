@@ -45,11 +45,11 @@
 
 > Upon installing and activating theme in Appearance > Themes panel you will get a notice at the top of your admin panel saying that the theme requires certain plugins. Click on Begin installing plugins.
 
-![](img/plugin_activate_machaschool.jpg)
+![](img/plugin_activate_machaschool.JPG)
 
 WordPress redirects you to the Install Required Plugins page. Select all plugins, choose Install and click Apply.
 
-![plugin_install_machaschool.JPG](img/plugin_install_machaschool.jpg)
+![plugin_install_machaschool.JPG](img/plugin_install_machaschool.JPG)
 
 ## Installing Demo Content
 
@@ -91,7 +91,7 @@ The procedure is as follows:
 
 > On General appearances panel you will find the following options:
 
-![](img/customization/general/1.jpg)
+![](img/customization/general/1.JPG)
 
 ### _Colors_
 
@@ -110,7 +110,7 @@ The procedure is as follows:
 
 > Animation are enabled by default. you can disbale them by checking the disabled box:
 
-![](img/customization/general/animation.jpg)
+![](img/customization/general/animation.JPG)
 
 ### _Typography_
 
@@ -118,14 +118,14 @@ The procedure is as follows:
 
 - Fonts used in Macha are all free google fonts so no worry about licence.
 
-![](img/customization/general/typography.jpg)
+![](img/customization/general/typography.JPG)
 <br>
 
 ## Front page options
 
 > Edit everything related to the landing page of the website.
 
-![](img/customization/front_sections/front_sections.jpg)
+![](img/customization/front_sections/front_sections.JPG)
 
 ### Actions buttons
 
@@ -139,7 +139,7 @@ The procedure is as follows:
 
 - TIP: Choose a low resolution image for the mobile version of the website.
 
-![](img/customization/general/front-background.jpg)
+![](img/customization/general/front-background.JPG)
 
 ### Icons background
 
@@ -147,13 +147,13 @@ The procedure is as follows:
 
 - Customize your icons , color, text ...
 
-![](img/customization/general/front-icons.jpg)
+![](img/customization/general/front-icons.JPG)
 
 ## Front page sections
 
 > The Macha theme font page contains many customizable sections.
 
-![](img/customization/front_sections/front_sections.jpg)
+![](img/customization/front_sections/front_sections.JPG)
 
 ### _Events section_
 
@@ -171,56 +171,56 @@ The procedure is as follows:
 
 > Use this section to share your clients feedback.
 
-![](img/customization/front_sections/test-section.jpg)
+![](img/customization/front_sections/test-section.JPG)
 
 ### _Our numbers_
 
 > Use this section to show your success numbers.
-> ![](img/customization/front_sections/numbers-section.jpg)
+> ![](img/customization/front_sections/numbers-section.JPG)
 
 ### _Visit us_
 
 > Get prapered for visits, just Set your email and get notified.
 
-![](img/customization/front_sections/visit-section.jpg)
+![](img/customization/front_sections/visit-section.JPG)
 
 ## Establishment info
 
 ### _Contact info_
 
 > Set your contact info which will be shown on your contact page by default.
-> ![](img/customization/establishment_info/estab_contact.jpg)
+> ![](img/customization/establishment_info/estab_contact.JPG)
 
 ### _General info_
 
 > Set your general info which will be shown on the footer by default.
 
-![](img/customization/establishment_info/estab_general.jpg)
+![](img/customization/establishment_info/estab_general.JPG)
 
 ### _Social media_
 
 > Set Links for social media.
 
-![](img/customization/establishment_info/estab_social.jpg)
+![](img/customization/establishment_info/estab_social.JPG)
 
 ### _The head info_
 
 > Set the school head info.
 
-![](img/customization/establishment_info/estab_head1.jpg)
-![](img/customization/establishment_info/estab_head2.jpg)
+![](img/customization/establishment_info/estab_head1.JPG)
+![](img/customization/establishment_info/estab_head2.JPG)
 
 ## Website Identity
 
 > Set your logo here.
 
-![](img/customization/site-identity/logo.jpg)
+![](img/customization/site-identity/logo.JPG)
 
 ## Menus
 
 > The main menu in Macha theme is devided into left-submenu and right-submenu each one have 3 level of depth. From this panel you could add item , reorder ,delete ...
 
-![](img/customization/Menu/Menu.jpg)
+![](img/customization/Menu/Menu.JPG)
 
 ## Widgets
 
