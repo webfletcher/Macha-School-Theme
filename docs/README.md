@@ -218,6 +218,10 @@ The procedure is as follows:
 
 ## Menus
 
+> The main menu in Macha theme is devided into left-submenu and right-submenu each one have 3 level of depth. From this panel you could add item , reorder ,delete ...
+
+![](img/customization/Menu/Menu.jpg)
+
 ## Widgets
 
 ## Homepage settings
