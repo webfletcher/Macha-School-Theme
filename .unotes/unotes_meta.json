@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "docs": {
+      "name": "docs",
+      "isOrdered": true,
+      "folders": {
+        "img": {
+          "name": "img",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {
+        "_navbar": 0,
+        "_coverpage": 1,
+        "README": 2
+      }
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
