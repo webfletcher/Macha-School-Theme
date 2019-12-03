@@ -9,4 +9,4 @@
 - purpose of this document is to help you get the most out of Macha theme as quickly as possible.If you have any questions regarding this document or Macha theme contact us via our support tool.
 
 [Who we are](https://webfletcher.com)
-[Get Started](#Getting started)
+[Get Started](#Getting_started)
