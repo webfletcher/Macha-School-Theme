@@ -61,8 +61,8 @@ WordPress redirects you to the Install Required Plugins page. Select all plugins
 1. Login to the wp-admin panel.
 2. Go to Tools > Import.
 
-<br>
 ![image](https://previews.dropbox.com/p/thumb/AArMPTJpBdoLh--dwSPDXZmpkrB1VBPzLI90PG7_cANOu-W6F_XFRb4sSUIO04ekbzOCAVjQL0rD9PUPD2cRUrRTuRv737UZh96AkNR4RjpSKFkOatDE1LhcTCVrD0NgZHD3YtGciSKQ-SQAm9FSH2R4iSGksbl6Uo3Ecb-ZHuiBHWK1yEzYA73mLvejjxVA9FcjFJ1_y7UlMVRiclJrV91hTIM6b7fGz_qw6fBWkXYetfoocXD38uxGWVLhJ08dpOgxAfQNoE31y3SnYUtIkN6ABkIWagZkIMl-cDt6H5naGQx2859dcPA1UkCJAG50Cr5EiM3l_HruRrgr-n0L2p6i3UDh5KNOvOmuxONj_7UAEw/p.jpeg?fv_content=true&size_mode=5)
+
 3\. Install the wordpress default importer
 
 ![image](https://previews.dropbox.com/p/thumb/AApiuMdm59__Yju4-JBLQI-yTYCNtvZX-tM53RVPWAnEiXlsnE5pvNEMsHyyNRIFvjg_6bh3wG_GfWOoEQlwYtlJqb1C5TCGyT2LloLrv2-KPsfDxRoP3Zckcw5h2ykcNXM--tTBCzRoG6vE3QFB1pT2kKZSnbyFqwGEo4KrGHUWf6IEZdKWDC3-_v559uNE31S1JKW2Hy0uIG2H-l8K2WAv832LpCfUWx-wCHjxuLBDyK-TS97C6jQ3jZUyj4RZISrhcPDyPAPt51HeyqeaxirHZwR54bqBowxo6-WB6VMS8wPlG3mWvp9Ir1mgMZjj7LfOa0t7V4ThcGf_pCR1oyEX/p.jpeg?fv_content=true&size_mode=5)
