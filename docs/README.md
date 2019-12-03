@@ -1,4 +1,4 @@
-# Getting started
+# **Getting started**
 
 ## Installing wordpress
 
@@ -87,3 +87,37 @@ WordPress redirects you to the Install Required Plugins page. Select all plugins
 
 <br>
 <br>
+
+# **Theme Customization**
+
+## General Appearances
+
+### *Colors*
+### *Animation*
+### *Typography*
+
+## Front page options
+
+### *Actions buttons*
+### *Background image*
+### *icons background*
+
+## Front page sections
+ 
+### *Events section*
+### *Blog*
+### *Testimonials*
+### *Our numbers*
+### *Visit us*
+
+## Establishment info
+### *Contact info*
+### *General info*
+### *Social media*
+### *The head info*
+
+## Website Identity
+## Menus
+## Widgets
+## Homepage settings
+## Custom styles
