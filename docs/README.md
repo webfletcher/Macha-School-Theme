@@ -222,8 +222,55 @@ The procedure is as follows:
 
 ![](img/customization/Menu/Menu.JPG)
 
-## Widgets
+# **Default Pages**
 
-## Homepage settings
+> After installing the demo content Macha theme creates 6 useful pages for any school or training center. The content of these pages is editable which is the aim of this section.
 
-## Custom styles
+## Events page
+
+> If your Establishment organizes events than you probably will need this page that allows you to show all your events so users could find them (Possiblity of searching) and show the upcoming or the next event in the landing page
+
+![](img/customization/Page&posts/events-page/0.jpg)
+
+> In order to create a new event (which will be added automatically to the events list on the events page) you will have to:<br>
+
+1.  login to the wp-admin panel.
+2.  Go to machashool on the left panel.
+3.  Choose all events then click on _add new_.
+
+![](img/customization/Page&posts/events-page/1.png)
+
+4. If this is your upcoming event then check the _show in upcoming event_ box.
+
+![](img/customization/Page&posts/events-page/2.png)
+
+## About us page
+
+> When students or parents or even clients have questions they must find an easy way to ask. That's what the Macha contact page meant to do.
+
+- For sure you can edit the page title:
+
+![](img/customization/Page&posts/contact-page/1.png)
+
+- w've seen it before but you can edit your contact infos and the page background from here too.
+
+![](img/customization/Page&posts/contact-page/2.png)
+
+- You can also tell people about the process to follow for contacting you.
+
+  1.  Edit the title such us _How to_ or _contact process_
+
+  ![](img/customization/Page&posts/contact-page/3.png)
+
+  2.  Under _machaschool_ left icon choose all cycle.
+      ![](img/customization/Page&posts/contact-page/4.png)
+
+## Elementor and Macha theme
+
+> Macha theme is elementor compatible.
+
+## Contact us page
+
+## Blog page
+
+## Teacher page
