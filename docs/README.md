@@ -228,7 +228,7 @@ The procedure is as follows:
 
 ## Events page
 
-> If your Establishment organizes events than you probably will need this page that allows you to show all your events so users could find them (Possiblity of searching) and show the upcoming or the next event in the landing page
+> If your establishment organizes events than you probably will need this page that allows you to show all your events so users could find them (Possiblity of searching) and show the upcoming or the next event in the landing page
 
 ![](img/customization/Page&posts/events-page/0.jpg)
 
@@ -244,7 +244,7 @@ The procedure is as follows:
 
 ![](img/customization/Page&posts/events-page/2.png)
 
-## About us page
+## Contact us page
 
 > When students or parents or even clients have questions they must find an easy way to ask. That's what the Macha contact page meant to do.
 
@@ -269,8 +269,60 @@ The procedure is as follows:
 
 > Macha theme is elementor compatible.
 
-## Contact us page
+## About us page
+
+> - The About Us page is one of the most important pages on your website. It is an opportunity where visitors get to know about your establishment . Macha theme offer the structure so you could tell your stories, humanize your brand, providing context and meaning ...<br>
+
+The default page is divided into section that could be edited as shown below:
+
+1.  Edit the page title and the small description by using the edit pen:
+
+![](img/customization/Page&posts/aboutus-page/1.png)
+
+2.  Edit the stroy text and its title the same way:
+
+![](img/customization/Page&posts/aboutus-page/2.png)
+
+3.  Add a title for a photo gallery or make a new one :
+
+![](img/customization/Page&posts/aboutus-page/3.png)
+
+4.  Tell others about the school head by editing his image and description:
+
+![](img/customization/Page&posts/aboutus-page/4.png)
+
+5.  Tell visitors about your teachers team and add new ones.
+
+![](img/customization/Page&posts/aboutus-page/5.png)
 
 ## Blog page
 
+> If you plan to write and publish blog posts or articles on your own website (will increase visitors) then this page is totally greate for that.
+
+![](img/customization/Page&posts/blog-page/1.png)
+
+> The page shows the lastest article in front (You decide when creating it) and the whole list of articles.
+
+- You can add an article by going to machashool on the left panel and select _all posts_.
+
+![](img/customization/Page&posts/blog-page/2.png)
+
+- When you want to stick an article in the front page just check the _Stick to the front pge_
+
+![](img/customization/Page&posts/blog-page/3.png)
+
 ## Teacher page
+
+> A “Meet our teacher” page helps visitors get to the point of knowing, liking and trusting you. Humans like to see a familiar face, it makes them feel more at ease when they meet with you or you show up at class or office. It shows that there are real people working for your establishment.
+
+- As other page you could edit the front page title, description and background the same way:
+
+![](img/customization/Page&posts/teachers-page/1.png)
+
+- You add teacher by clicking on _add new_ in the machashool on the left panel and select _all posts_.
+
+![](img/customization/Page&posts/teachers-page/2.png)
+
+# Animations
+
+# Conclusion
