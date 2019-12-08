@@ -323,6 +323,28 @@ The default page is divided into section that could be edited as shown below:
 
 ![](img/customization/Page&posts/teachers-page/2.png)
 
-# Animations
+## Apply page
+
+> SchoolApply helps students from anywhere connect with great educational programs and schools abroad that best match their needs and potential.
+
+- In the apply page you could edir the welcome text as shown bellow.
+
+![](img/customization/Page&posts/apply-page/1.png)
+
+- You can also edit your contact info from here too.
+
+![](img/customization/Page&posts/apply-page/2.png)
+
+# The footer
+
+> MachaSchool footer signals to the user that they have reached the end of the webpage and provides useful links to other areas of the website that the user may want to visit.
+
+- You can customize the footer directly from the customization panel using the pen icon:
+
+![](img/customization/footer/1.png)
 
 # Conclusion
+
+We are a creative and dedicated group of IT teachers who love WordPress almost as much as we love our customers. we have been making custom themes for a while and they were loved by everyone so we decided to make them accessible in the market which give birth to our first child "Machaschool". We believe that it can make your life easier, and that makes us very happy.
+
+We encourage you to give it a try and we promise providing each and every user with top-notch support. Plain and simple, we love our users! When you need help, you can count on us. We take pride in our work, and the services we provide our users. We strive to make our themes as user-friendly and flexible as they can be.
