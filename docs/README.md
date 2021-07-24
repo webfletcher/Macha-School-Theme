@@ -15,18 +15,7 @@
 ## Installing Macha theme
 
 <br>
-1. Download the Macha theme form themeforest
-
-![](img/theme-forest-download.jpg)
-
-2. You have tow options for downloading your theme:
-
-- All files and documentation (Complete Zip archive)
-- Installable WordPress file only.
-
-![theme-forest-download-options.jpg](img/theme-forest-download-options.jpg)
-
-3. Install the theme
+1. Download the Macha theme
 
 - Navigate to Appearance > Themes
 - Click **Add New**
